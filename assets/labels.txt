@@ -1,0 +1,6 @@
+Cow
+Horse
+Elephant
+Sheep
+Cat
+Dog
